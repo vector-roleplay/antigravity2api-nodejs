@@ -36,6 +36,6 @@
     "passSignatureToClient": false,
     "debugDumpRequestResponse": false,
     "useCachedSignature": true,
-    "useFallbackSignature": false
+    "useFallbackSignature": true
   }
 }
